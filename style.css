@@ -1,0 +1,27 @@
+.input{
+    height:50px;
+    width:300px;
+    font-size:40px;
+    position: absolute;
+}
+.button{
+    height:50px;
+    width:50px;
+    position: absolute;
+}
+#input{
+    top:50px;
+    left:50px
+}
+#inputButton{
+    top:50px;
+    left:310px
+}
+#inputLetter{
+    top:110px;
+    left:50px
+}
+#inputLetterButton{
+    top:110px;
+    left:310px
+}
